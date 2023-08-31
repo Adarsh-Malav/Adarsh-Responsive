@@ -18,7 +18,7 @@
             background-origin: border-box;
             background-size:cover;
             background-position: center;
-            display: flex;
+            /* display: flex; */
         }
        
         #navbar{
@@ -276,6 +276,24 @@
         .sidebarGo{
             transform: translate(-443px, 0px);
             position: absolute;
+        }
+        @media (max-width:576px) {
+            #navbar
+            {
+                padding-top: 20px;
+                position: static;
+            }
+           .openbtn{
+            height: 80px;
+            width: 80px;
+            
+            }
+            #uber_eats{
+                width: 31rem;
+            }
+            #right{
+                right: -45rem;
+            }
         }
     </style>
     
