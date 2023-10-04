@@ -68,6 +68,9 @@
         margin-top: 10px 20px;
     
     }
+    #chef-p{
+        margin: 7px;
+    }
     .col-container{
         display: flex;
         flex-direction: column;
@@ -139,11 +142,14 @@
           padding: 12px 19px 0px;
       }
       .email-sub{
-        margin: 70px 10px;
+        margin: 64px -5px;
         padding-left:0px;
     }
     .email-sub button{
         padding: 11px 10px;        
+    }
+    .email-sub input{
+        margin-left: 18px;
     }
     .f-icons{
        margin: 10px 5px;
