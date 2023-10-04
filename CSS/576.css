@@ -1,0 +1,78 @@
+@media (max-width: 576px) { 
+    .nav{
+        align-items: center;
+         padding: 20px 0px;
+    }
+    .logo{
+        margin-top: 0;
+    }
+    .nav-menu{
+        font-size: 23px;
+        text-transform: uppercase;
+        color: #ffffff;
+        font-weight: 600;
+        font-family: 'Poppins', sans-serif;
+        position: absolute;
+        right: -22px;
+        top: 100px;
+        display: flex;
+        flex-direction: column;
+        background-color: rgba(0, 0, 0, 0.714);
+        display: none;
+    }
+    .nav-menu p{
+        margin: 40px 100px;
+        /* margin-right: 46px; */
+        padding-right: 32px;
+    }
+    .bar{
+        display: block;
+        position: absolute;
+        right: 10px;
+        top: 50px;
+       }
+       
+       header .main-text{
+        text-align: center;
+        margin-top: 45px;
+       }
+       header .main-text h1{
+        padding: 0px 34px;
+        font-size: 55px;
+       }
+       #check:checked ~ .nav-menu{
+        /* right: -30px; */
+        display: block;
+    } 
+    .col-50{
+        width: 100%;
+    }
+    .section-text h2{
+        font-size: 38px;
+    }
+    /* .section-text p{
+        font-size: 20px;
+        padding: 10px 10px;
+        } */
+    div[class*="pk"] p{
+        font-size: 15px;
+        margin-top: 10px 20px;
+    
+    }
+    .packages{
+       margin-top: 50px;
+    }
+    
+    div[class*="pk"] button{
+        font-size: 18px;
+        padding-top: 3px;
+        margin: 22px 45px;    
+    }
+    .pack-image{
+        margin-top: 10px;
+        padding-right: 0px;
+     }
+     #package-h2{
+        padding-top: 0;
+      }
+}
