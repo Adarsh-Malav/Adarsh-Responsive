@@ -32,23 +32,25 @@
         font-size: 20px;
         margin-top: 30px;
         margin: 0 60px;
-        padding: 16px 90px 0px;
+        /* padding: 16px 90px 0px; */
         }
     .burger{
-        margin-top: 50px;
-        margin-right: 20px;
-        padding: 50px;
+        margin: 20px 50px;
+        /* margin-right: 20px; */
+        /* padding: 50px; */
     }
     .section-wrapper-2 .main-text p{
         font-size: 20px;
+        margin-top: 18px;
+        padding-top: 0;
     }
     .section-wrapper-2 .main-text{
-        margin-top: 50px;
-        margin-bottom: 70px;
+        margin-top: 10px;
+        margin-bottom: 20px;
     }
     .section-wrapper-2 .main-text h1{
-          font-size: 45px;
-        padding-top: 55px;
+        font-size: 45px;
+        padding-top: 5px;
       }
      /* .section-text{
         padding-top: 0;
@@ -60,12 +62,12 @@
         font-size: 45px;
        
     }
-    section-4 .section-text p{
+    /* section-4 .section-text p{
         font-size: 20px;
         margin-top: 30px;
         margin: 0 30px;
         padding: 16px 80px 0px;
-        }
+        } */
         div[class*="cs"]{
             width: 170px;
             height: 170px;
