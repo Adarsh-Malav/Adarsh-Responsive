@@ -401,7 +401,7 @@ div[class*="pk"] p{
 }
 
 .email-sub button{
-    padding: 15px 30px;
+    /* padding: 15px 0px; */
     border-radius: 30px;
     background-color: #f64b3c;
     border: none;
