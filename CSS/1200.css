@@ -1,0 +1,30 @@
+@media (max-width: 1200px) { 
+
+    .nav-menu p{
+        margin-right: 30px;
+    }
+    .Header-Wrapper h1{
+        font-size: 75px;
+    }
+    .Header-Wrapper p{
+        font-size: 25px;
+    }
+    .Header-Wrapper button{
+        font-size: 21px;
+        padding: 12px 35px;
+        margin-top: 35px;
+    }
+
+    .section-wrapper-2 .main-text h1{
+        font-size: 60px;
+    }
+    .section-wrapper-2 .main-text  p{
+        font-size: 25px;
+    }
+    .burger{
+        padding: 100px;
+    }
+    .section-wrapper-2 .main-text button{
+        font-size: 20px;
+    }
+}
