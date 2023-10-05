@@ -141,15 +141,16 @@
       }
       .email-sub{
         padding-left:0px;
-        /* width: 80%; */
+        width: 80%;
         margin: 20px auto;
     }
     .email-sub input[type="email"]{
-        margin-left: 0;
+        margin-left: 15px;
+        font-size: 16px;
     }
     .email-sub button{
-        padding: 5px 10px; 
-        font-size: 15px;       
+        padding: 4px 8px; 
+        font-size: 12px;       
     }
    
     .f-icons{

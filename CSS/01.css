@@ -340,17 +340,18 @@ div[class*="pk"] p{
     background-color: #ffffff;
     display: flex;
     justify-content: space-between;
+    padding-left: 10px;
     margin: 55px auto;
     margin-bottom: 80px;
-
 }
 .email-sub input[type="email"]{
+    width: 50%;
     opacity: 0.502;
-    font-size: 25px;
+    font-size: 20px;
     color: #835e3f;
     font-weight: 400;
     border: none;
-    margin-left: 20px;
+    display: inline-block;
 }
 
 .email-sub button{
